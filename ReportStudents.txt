@@ -1,0 +1,14 @@
+===== Student Report =====
+
+Total Students: 3.0
+Graduated Students: 1
+Non-Graduated Students: 2
+Average Age: 19.333333333333332
+
+Grade Statistics:
+A: 0
+B: 1
+C: 1
+D: 1
+E: 0
+F: 0
